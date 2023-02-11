@@ -1,6 +1,6 @@
 # ReactJS_UITwitter 🚀
 
-_This project was developed in a reactjs masterclass organized by @rockeatseat 🔥_
+_This project was developed in a reactjs masterclass organized by @rocketseat 🔥_
 
 ℹ️ The purpose of this project was to work in a simplified way in the construction of the twitter UI, with the basic functionalities and applying routes, layouts and hooks!
 
