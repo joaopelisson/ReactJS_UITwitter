@@ -1,9 +1,9 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createBrowserRouter, createHashRouter } from "react-router-dom";
 import { Timeline } from "./pages/Timeline";
 import { Status } from "./pages/Status";
 import { Default } from "./layouts/Default";
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
   {
     path: "/",
     element: <Default />,
